@@ -1,0 +1,14 @@
+This (1) is (1) a (1) domletters (2) example (2) input: (0)
+
+zero (1)
+one (1)
+two (1)
+three (2)
+four (1)
+five (1)
+six (1)
+seven (2)
+eight (1)
+nine (2)
+
+result=20

@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import sys
+# Counter usage inspired from: https://www.techbeamers.com/character-frequency-python-string/#:~:text=Novice%20approach%20%E2%80%93%20Use%20A%20dictionary%20for%20the,to%20keep%20incrementing%20each%20value%20field%20by%201.
 from collections import Counter
 result = 0
 for line in sys.stdin:
